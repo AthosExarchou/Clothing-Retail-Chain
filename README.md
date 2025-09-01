@@ -14,7 +14,7 @@ The project combines **business process analysis**, **data flow diagrams (DFDs)*
   - Data flow diagrams
   - Proposed architecture & applications
 - **`information_systems.vpp`**: Visual Paradigm project file containing all system diagrams.
-- **`/diagrams/`**: Exported diagrams from the `.vpp` file (DFDs, system maps, etc.).
+- **`/diagrams/`**: Exported diagrams from the `.vpp` file.
 
 ---
 
@@ -66,3 +66,4 @@ All diagrams were designed using **Visual Paradigm** and exported as images:
 
 ## License
 This project is licensed under the MIT License.
+

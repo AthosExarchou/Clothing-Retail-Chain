@@ -1,7 +1,7 @@
 # Clothing Retail Chain
 
 ## Overview
-This project was developed as part of the course **Πληροφοριακά Συστήματα (Information Systems)** at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr) and focuses on the analysis and redesign of the information systems architecture for a **clothing retail chain (InfiStyle)**.
+This repository was developed as a group project for the **Πληροφοριακά Συστήματα (Information Systems)** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr) and focuses on the analysis and redesign of the information systems architecture for a **clothing retail chain (InfiStyle)**.
 
 The project combines **business process analysis**, **data flow diagrams (DFDs)**, and a **proposed enterprise application architecture** to highlight how modern information systems can enhance efficiency, customer experience, and competitiveness in the retail fashion industry.
 
@@ -66,4 +66,5 @@ All diagrams were designed using **Visual Paradigm** and exported as images:
 
 ## License
 This project is licensed under the MIT License.
+
 
